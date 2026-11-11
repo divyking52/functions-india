@@ -1,0 +1,4 @@
+# Local image copies; the site loads images from Storebox
+assets/
+*.zip
+.vercel
